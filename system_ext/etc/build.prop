@@ -7,8 +7,8 @@ ro.product.system_ext.device=missi
 ro.product.system_ext.manufacturer=Xiaomi
 ro.product.system_ext.model=AOSP on ARM64
 ro.product.system_ext.name=missi_phone_cn_only64
-ro.system_ext.build.date=Fri May 31 11:47:04 UTC 2024
-ro.system_ext.build.date.utc=1717156024
+ro.system_ext.build.date=Fri Jun 14 17:30:55 UTC 2024
+ro.system_ext.build.date.utc=1718386255
 ro.system_ext.build.fingerprint=Android/missi_phone_cn_only64/missi:14/UP1A.230905.011/V816.0.15.0.UNLCNXM:user/release-keys
 ro.system_ext.build.id=UP1A.230905.011
 ro.system_ext.build.tags=release-keys
@@ -51,3 +51,5 @@ persist.sys.mi_shadow_supported=true
 ro.miui.enable_cloud_verify=true
 persist.sys.timezone=Europe/London
 # end of file
+
+persist.sys.allow_sys_app_update=true
